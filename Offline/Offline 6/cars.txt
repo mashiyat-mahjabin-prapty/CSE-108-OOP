@@ -1,0 +1,7 @@
+1YX98J,2014,Black,White,,Toyota,RAV4,25000.0
+ABC132,2007,Yellow,,,Toyota,Corolla,5900.0
+GH5H7j,2019,Blue,,,Sedan,allion,3950.0
+79HFU,2012,Blue,,,Toyota,Allion,894.0
+NVUOI88,2018,blue,green,,Toyota,X,4500.0
+dkfjkg,2019,green,,,Toyota,X,39849.0
+UHFTR677,2013,blue,black,,Toyota,IST,2490.0

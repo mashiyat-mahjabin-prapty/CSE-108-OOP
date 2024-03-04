@@ -1,0 +1,7 @@
+1YX98J,2014,Black,Toyota,RAV4,25000.0
+MARY,2017,Red,BMW,116d,55132.0
+38000,2012,Blue,Honda,Civic,9200.0
+4200,2019,White,Toyota,Corolla,2949.0
+MPGT79,2020,Black,Rolls Royce,Phantom,40000.0
+UGYF9,2012,White,Toyota,X,30000.0
+JYU67,2011,White,Toyota,Corolla,3000.0

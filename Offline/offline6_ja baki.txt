@@ -1,0 +1,4 @@
+1. Manufacture kibhabe quantity thik korbe, have to fix that-done
+2. Shob kichu server-client e korte hobe
+3. File server ei open kore read korte hobe, erpor arraylist pathate pare client k
+4. Server k car pathale sheta list e add korbe

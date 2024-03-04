@@ -1,0 +1,11 @@
+10
+Anik 10 350
+Mahmud 20 800
+Arnob 22 1010
+Zia 12 365
+Tahmid 18 918
+Arif 30 1208
+Nazmul 40 700
+Sabbir 50 1510
+Iqbal 70 3150
+Kayes 60 2012

@@ -1,0 +1,11 @@
+.root{
+    -fx-background-color: transparent;
+}
+
+.table-view{
+    -fx-background-color: transparent;
+}
+
+.table-view:selected{
+    -fx-background-color: #00ffff;
+}
